@@ -7,10 +7,15 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a simple webserver.
 
+Resource
+=============================
+https://stackoverflow.com/a/21153368 by falsetru
+
 Contributors / Licensing
 ========================
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+The code added for assignment 1 is licensed under the Apache 2 license by Hyunseo Jho.
 
 server.py contains contributions from:
 
